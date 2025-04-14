@@ -68,4 +68,5 @@
 ### **⚡ Quick Facts**  
 - **Favorite Tools:** Python, Ghidra, Wireshark, VS Code  
 - **Currently Hacking:** Programming tools in conjunction with xyz axis 3d printers  
-- **Fun Fact:** I very much enjoy skateboarding and making music occasionally.  
+- **Fun Fact:** very much enjoy skateboarding and making music occasionally.
+  - [**SoundCloud**](https://soundcloud.com/oxycaution)  
