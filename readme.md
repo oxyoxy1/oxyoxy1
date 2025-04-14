@@ -1,7 +1,6 @@
-# 👋 Hey there! I'm **oxyoxy1**  
+# 👋 **oxyoxy1**  
 
-🔭 **Security (Penetration + Defense) & Software Developer** **|** 🛠 **Python | C++ | HTML | Swift | Cybersecurity** **|** <br>
-🚀 **Building cool stuff**  
+🔭 **Security (Penetration + Defense) & Software Developer** 🚀 **Building cool stuff**  
 
 ### **About Me**  
 - Passionate about **security tools, automation, games, and open-source projects**  
