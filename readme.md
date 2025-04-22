@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm oxy</h1>
+<h1 align="center">Kenneth a.k.a. oxy</h1>
 <h3 align="center">Unorthodox Full-Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxyoxy1" alt="oxyoxy1" /></a> </p>
