@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxyoxy1" alt="oxyoxy1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://oxyoxy1.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://oxyoxy1.github.io/Portfolio/)
 
-- 📫 How to reach me **oxycaution@gmail.com**
+- 📫 How to reach me: **oxycaution@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CNvbPhLkZgQ_OYvmo-PgU39WGjWaLNst/view?usp=drive_link)
+- 📄 Know about my experiences!: [Resume](https://drive.google.com/file/d/1CNvbPhLkZgQ_OYvmo-PgU39WGjWaLNst/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
