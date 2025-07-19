@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/oxyoxy1/count.svg?"  />
-</div>
-
-###
-
 <p align="center">My name is Kenneth! I'm a full-stack developer from California</p>
 
 ###
